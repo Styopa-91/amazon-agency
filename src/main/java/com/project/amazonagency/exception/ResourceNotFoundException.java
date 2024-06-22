@@ -1,4 +1,4 @@
-package com.abi.agro_back.exception;
+package com.project.amazonagency.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
